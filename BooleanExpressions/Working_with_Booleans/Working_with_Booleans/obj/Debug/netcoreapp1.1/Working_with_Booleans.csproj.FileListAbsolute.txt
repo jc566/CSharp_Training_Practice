@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\bin\Debug\netcoreapp1.1\Working_with_Booleans.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\bin\Debug\netcoreapp1.1\Working_with_Booleans.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\bin\Debug\netcoreapp1.1\Working_with_Booleans.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\bin\Debug\netcoreapp1.1\Working_with_Booleans.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\bin\Debug\netcoreapp1.1\Working_with_Booleans.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\obj\Debug\netcoreapp1.1\Working_with_Booleans.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\obj\Debug\netcoreapp1.1\Working_with_Booleans.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\obj\Debug\netcoreapp1.1\Working_with_Booleans.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\BooleanExpressions\Working_with_Booleans\Working_with_Booleans\obj\Debug\netcoreapp1.1\Working_with_Booleans.pdb
