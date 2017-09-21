@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\bin\Debug\netcoreapp1.1\Volatile_Class.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\bin\Debug\netcoreapp1.1\Volatile_Class.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\bin\Debug\netcoreapp1.1\Volatile_Class.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\bin\Debug\netcoreapp1.1\Volatile_Class.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\bin\Debug\netcoreapp1.1\Volatile_Class.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\obj\Debug\netcoreapp1.1\Volatile_Class.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\obj\Debug\netcoreapp1.1\Volatile_Class.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\obj\Debug\netcoreapp1.1\Volatile_Class.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\obj\Debug\netcoreapp1.1\Volatile_Class.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Volatile_Class\Volatile_Class\obj\Debug\netcoreapp1.1\Volatile_Class.pdb
