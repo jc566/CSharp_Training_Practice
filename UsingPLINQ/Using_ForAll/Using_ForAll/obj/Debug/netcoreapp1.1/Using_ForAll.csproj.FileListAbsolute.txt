@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\bin\Debug\netcoreapp1.1\Using_ForAll.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\bin\Debug\netcoreapp1.1\Using_ForAll.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\bin\Debug\netcoreapp1.1\Using_ForAll.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\bin\Debug\netcoreapp1.1\Using_ForAll.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\bin\Debug\netcoreapp1.1\Using_ForAll.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\obj\Debug\netcoreapp1.1\Using_ForAll.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\obj\Debug\netcoreapp1.1\Using_ForAll.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\obj\Debug\netcoreapp1.1\Using_ForAll.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\obj\Debug\netcoreapp1.1\Using_ForAll.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_ForAll\Using_ForAll\obj\Debug\netcoreapp1.1\Using_ForAll.pdb

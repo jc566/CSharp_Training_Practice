@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\bin\Debug\netcoreapp1.1\Using_A_ConcurrentStack.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\bin\Debug\netcoreapp1.1\Using_A_ConcurrentStack.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\bin\Debug\netcoreapp1.1\Using_A_ConcurrentStack.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\bin\Debug\netcoreapp1.1\Using_A_ConcurrentStack.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\bin\Debug\netcoreapp1.1\Using_A_ConcurrentStack.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\obj\Debug\netcoreapp1.1\Using_A_ConcurrentStack.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\obj\Debug\netcoreapp1.1\Using_A_ConcurrentStack.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\obj\Debug\netcoreapp1.1\Using_A_ConcurrentStack.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\obj\Debug\netcoreapp1.1\Using_A_ConcurrentStack.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentStack\Using_A_ConcurrentStack\obj\Debug\netcoreapp1.1\Using_A_ConcurrentStack.pdb

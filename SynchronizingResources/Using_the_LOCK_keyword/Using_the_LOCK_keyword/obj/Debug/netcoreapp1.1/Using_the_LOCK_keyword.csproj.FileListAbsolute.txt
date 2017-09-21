@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\bin\Debug\netcoreapp1.1\Using_the_LOCK_keyword.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\bin\Debug\netcoreapp1.1\Using_the_LOCK_keyword.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\bin\Debug\netcoreapp1.1\Using_the_LOCK_keyword.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\bin\Debug\netcoreapp1.1\Using_the_LOCK_keyword.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\bin\Debug\netcoreapp1.1\Using_the_LOCK_keyword.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\obj\Debug\netcoreapp1.1\Using_the_LOCK_keyword.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\obj\Debug\netcoreapp1.1\Using_the_LOCK_keyword.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\obj\Debug\netcoreapp1.1\Using_the_LOCK_keyword.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Using_the_LOCK_keyword\Using_the_LOCK_keyword\obj\Debug\netcoreapp1.1\Using_the_LOCK_keyword.pdb

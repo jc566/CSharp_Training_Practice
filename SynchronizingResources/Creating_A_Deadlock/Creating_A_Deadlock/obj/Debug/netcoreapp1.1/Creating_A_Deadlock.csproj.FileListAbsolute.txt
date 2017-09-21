@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\bin\Debug\netcoreapp1.1\Creating_A_Deadlock.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\bin\Debug\netcoreapp1.1\Creating_A_Deadlock.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\bin\Debug\netcoreapp1.1\Creating_A_Deadlock.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\bin\Debug\netcoreapp1.1\Creating_A_Deadlock.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\bin\Debug\netcoreapp1.1\Creating_A_Deadlock.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\obj\Debug\netcoreapp1.1\Creating_A_Deadlock.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\obj\Debug\netcoreapp1.1\Creating_A_Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\obj\Debug\netcoreapp1.1\Creating_A_Deadlock.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\obj\Debug\netcoreapp1.1\Creating_A_Deadlock.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\SynchronizingResources\Creating_A_Deadlock\Creating_A_Deadlock\obj\Debug\netcoreapp1.1\Creating_A_Deadlock.pdb

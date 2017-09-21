@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\bin\Debug\netcoreapp1.1\Using_A_ConcurrentBag.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\bin\Debug\netcoreapp1.1\Using_A_ConcurrentBag.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\bin\Debug\netcoreapp1.1\Using_A_ConcurrentBag.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\bin\Debug\netcoreapp1.1\Using_A_ConcurrentBag.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\bin\Debug\netcoreapp1.1\Using_A_ConcurrentBag.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\obj\Debug\netcoreapp1.1\Using_A_ConcurrentBag.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\obj\Debug\netcoreapp1.1\Using_A_ConcurrentBag.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\obj\Debug\netcoreapp1.1\Using_A_ConcurrentBag.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\obj\Debug\netcoreapp1.1\Using_A_ConcurrentBag.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingConcurrentCollections\Using_A_ConcurrentBag\Using_A_ConcurrentBag\obj\Debug\netcoreapp1.1\Using_A_ConcurrentBag.pdb

@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\bin\Debug\netcoreapp1.1\Ordered_Parallel_Query.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\bin\Debug\netcoreapp1.1\Ordered_Parallel_Query.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\bin\Debug\netcoreapp1.1\Ordered_Parallel_Query.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\bin\Debug\netcoreapp1.1\Ordered_Parallel_Query.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\bin\Debug\netcoreapp1.1\Ordered_Parallel_Query.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\obj\Debug\netcoreapp1.1\Ordered_Parallel_Query.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\obj\Debug\netcoreapp1.1\Ordered_Parallel_Query.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\obj\Debug\netcoreapp1.1\Ordered_Parallel_Query.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\obj\Debug\netcoreapp1.1\Ordered_Parallel_Query.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Ordered_Parallel_Query\Ordered_Parallel_Query\obj\Debug\netcoreapp1.1\Ordered_Parallel_Query.pdb

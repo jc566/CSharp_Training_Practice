@@ -1,0 +1,5 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAll\Using_Task.WaitAll\bin\Debug\Using_Task.WaitAll.exe.config
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAll\Using_Task.WaitAll\bin\Debug\Using_Task.WaitAll.exe
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAll\Using_Task.WaitAll\bin\Debug\Using_Task.WaitAll.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAll\Using_Task.WaitAll\obj\Debug\Using_Task.WaitAll.exe
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAll\Using_Task.WaitAll\obj\Debug\Using_Task.WaitAll.pdb

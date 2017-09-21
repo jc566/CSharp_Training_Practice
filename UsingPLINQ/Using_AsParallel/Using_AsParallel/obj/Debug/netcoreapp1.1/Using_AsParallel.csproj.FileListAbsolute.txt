@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\bin\Debug\netcoreapp1.1\Using_AsParallel.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\bin\Debug\netcoreapp1.1\Using_AsParallel.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\bin\Debug\netcoreapp1.1\Using_AsParallel.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\bin\Debug\netcoreapp1.1\Using_AsParallel.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\bin\Debug\netcoreapp1.1\Using_AsParallel.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\obj\Debug\netcoreapp1.1\Using_AsParallel.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\obj\Debug\netcoreapp1.1\Using_AsParallel.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\obj\Debug\netcoreapp1.1\Using_AsParallel.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\obj\Debug\netcoreapp1.1\Using_AsParallel.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\ParallelClass\Using_AsParallel\Using_AsParallel\obj\Debug\netcoreapp1.1\Using_AsParallel.pdb

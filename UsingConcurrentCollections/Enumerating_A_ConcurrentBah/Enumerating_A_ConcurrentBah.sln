@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerating_A_ConcurrentBah", "Enumerating_A_ConcurrentBah\Enumerating_A_ConcurrentBah.csproj", "{593ACCC1-A878-4D3A-A9EF-D0718AF76EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593ACCC1-A878-4D3A-A9EF-D0718AF76EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593ACCC1-A878-4D3A-A9EF-D0718AF76EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593ACCC1-A878-4D3A-A9EF-D0718AF76EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593ACCC1-A878-4D3A-A9EF-D0718AF76EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {633F8B05-12DB-4CD3-A249-440E20C21F75}
+	EndGlobalSection
+EndGlobal
