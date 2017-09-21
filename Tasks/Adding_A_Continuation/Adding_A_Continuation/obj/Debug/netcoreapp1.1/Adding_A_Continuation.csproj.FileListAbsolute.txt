@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\bin\Debug\netcoreapp1.1\Adding_A_Continuation.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\bin\Debug\netcoreapp1.1\Adding_A_Continuation.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\bin\Debug\netcoreapp1.1\Adding_A_Continuation.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\bin\Debug\netcoreapp1.1\Adding_A_Continuation.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\bin\Debug\netcoreapp1.1\Adding_A_Continuation.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\obj\Debug\netcoreapp1.1\Adding_A_Continuation.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\obj\Debug\netcoreapp1.1\Adding_A_Continuation.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\obj\Debug\netcoreapp1.1\Adding_A_Continuation.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Adding_A_Continuation\Adding_A_Continuation\obj\Debug\netcoreapp1.1\Adding_A_Continuation.pdb
