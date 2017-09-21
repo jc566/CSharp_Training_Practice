@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\bin\Debug\netcoreapp1.1\Using_A_Delegate.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\bin\Debug\netcoreapp1.1\Using_A_Delegate.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\bin\Debug\netcoreapp1.1\Using_A_Delegate.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\bin\Debug\netcoreapp1.1\Using_A_Delegate.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\bin\Debug\netcoreapp1.1\Using_A_Delegate.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\obj\Debug\netcoreapp1.1\Using_A_Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\obj\Debug\netcoreapp1.1\Using_A_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\obj\Debug\netcoreapp1.1\Using_A_Delegate.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\obj\Debug\netcoreapp1.1\Using_A_Delegate.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UnderstandingDelegates\Using_A_Delegate\Using_A_Delegate\obj\Debug\netcoreapp1.1\Using_A_Delegate.pdb
