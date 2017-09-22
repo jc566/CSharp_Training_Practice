@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Throwing_An_ArgumentNullException", "Throwing_An_ArgumentNullException\Throwing_An_ArgumentNullException.csproj", "{D3EEE01A-85AF-4BFB-BBEA-5AA69A45AA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3EEE01A-85AF-4BFB-BBEA-5AA69A45AA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EEE01A-85AF-4BFB-BBEA-5AA69A45AA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EEE01A-85AF-4BFB-BBEA-5AA69A45AA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EEE01A-85AF-4BFB-BBEA-5AA69A45AA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22EAA98-CD95-4DCD-832D-12F3389169B5}
+	EndGlobalSection
+EndGlobal
