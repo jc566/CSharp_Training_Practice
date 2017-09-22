@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\bin\Debug\netcoreapp1.1\The_Foreach_Loop.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\bin\Debug\netcoreapp1.1\The_Foreach_Loop.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\bin\Debug\netcoreapp1.1\The_Foreach_Loop.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\bin\Debug\netcoreapp1.1\The_Foreach_Loop.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\bin\Debug\netcoreapp1.1\The_Foreach_Loop.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\obj\Debug\netcoreapp1.1\The_Foreach_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\obj\Debug\netcoreapp1.1\The_Foreach_Loop.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\obj\Debug\netcoreapp1.1\The_Foreach_Loop.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.3\IteratingAcrossCollections\The_Foreach_Loop\The_Foreach_Loop\obj\Debug\netcoreapp1.1\The_Foreach_Loop.pdb
