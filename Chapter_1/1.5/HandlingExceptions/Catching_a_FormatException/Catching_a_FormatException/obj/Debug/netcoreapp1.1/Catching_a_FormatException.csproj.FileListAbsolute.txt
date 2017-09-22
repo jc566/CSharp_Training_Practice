@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\bin\Debug\netcoreapp1.1\Catching_a_FormatException.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\bin\Debug\netcoreapp1.1\Catching_a_FormatException.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\bin\Debug\netcoreapp1.1\Catching_a_FormatException.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\bin\Debug\netcoreapp1.1\Catching_a_FormatException.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\bin\Debug\netcoreapp1.1\Catching_a_FormatException.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\obj\Debug\netcoreapp1.1\Catching_a_FormatException.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\obj\Debug\netcoreapp1.1\Catching_a_FormatException.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\obj\Debug\netcoreapp1.1\Catching_a_FormatException.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\obj\Debug\netcoreapp1.1\Catching_a_FormatException.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_a_FormatException\Catching_a_FormatException\obj\Debug\netcoreapp1.1\Catching_a_FormatException.pdb

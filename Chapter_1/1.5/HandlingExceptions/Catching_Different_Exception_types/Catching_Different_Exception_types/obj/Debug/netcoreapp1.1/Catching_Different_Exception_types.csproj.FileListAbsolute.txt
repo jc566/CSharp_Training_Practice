@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\bin\Debug\netcoreapp1.1\Catching_Different_Exception_types.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\bin\Debug\netcoreapp1.1\Catching_Different_Exception_types.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\bin\Debug\netcoreapp1.1\Catching_Different_Exception_types.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\bin\Debug\netcoreapp1.1\Catching_Different_Exception_types.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\bin\Debug\netcoreapp1.1\Catching_Different_Exception_types.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\obj\Debug\netcoreapp1.1\Catching_Different_Exception_types.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\obj\Debug\netcoreapp1.1\Catching_Different_Exception_types.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\obj\Debug\netcoreapp1.1\Catching_Different_Exception_types.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Catching_Different_Exception_types\Catching_Different_Exception_types\obj\Debug\netcoreapp1.1\Catching_Different_Exception_types.pdb

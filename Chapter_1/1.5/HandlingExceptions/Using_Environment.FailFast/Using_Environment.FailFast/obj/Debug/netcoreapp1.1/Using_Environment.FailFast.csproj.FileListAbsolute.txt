@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\bin\Debug\netcoreapp1.1\Using_Environment.FailFast.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\bin\Debug\netcoreapp1.1\Using_Environment.FailFast.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\bin\Debug\netcoreapp1.1\Using_Environment.FailFast.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\bin\Debug\netcoreapp1.1\Using_Environment.FailFast.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\bin\Debug\netcoreapp1.1\Using_Environment.FailFast.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\obj\Debug\netcoreapp1.1\Using_Environment.FailFast.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\obj\Debug\netcoreapp1.1\Using_Environment.FailFast.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\obj\Debug\netcoreapp1.1\Using_Environment.FailFast.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Using_Environment.FailFast\Using_Environment.FailFast\obj\Debug\netcoreapp1.1\Using_Environment.FailFast.pdb

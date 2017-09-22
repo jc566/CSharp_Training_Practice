@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\bin\Debug\netcoreapp1.1\Inspecting_an_Element.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\bin\Debug\netcoreapp1.1\Inspecting_an_Element.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\bin\Debug\netcoreapp1.1\Inspecting_an_Element.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\obj\Debug\netcoreapp1.1\Inspecting_an_Element.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\obj\Debug\netcoreapp1.1\Inspecting_an_Element.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\bin\Debug\netcoreapp1.1\Inspecting_an_Element.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\bin\Debug\netcoreapp1.1\Inspecting_an_Element.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\obj\Debug\netcoreapp1.1\Inspecting_an_Element.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Inspecting_an_Element\Inspecting_an_Element\obj\Debug\netcoreapp1.1\Inspecting_an_Element.pdb

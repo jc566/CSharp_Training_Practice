@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\bin\Debug\netcoreapp1.1\Parsing_an_invalid_number.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\bin\Debug\netcoreapp1.1\Parsing_an_invalid_number.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\bin\Debug\netcoreapp1.1\Parsing_an_invalid_number.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\bin\Debug\netcoreapp1.1\Parsing_an_invalid_number.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\bin\Debug\netcoreapp1.1\Parsing_an_invalid_number.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\obj\Debug\netcoreapp1.1\Parsing_an_invalid_number.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\obj\Debug\netcoreapp1.1\Parsing_an_invalid_number.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\obj\Debug\netcoreapp1.1\Parsing_an_invalid_number.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\obj\Debug\netcoreapp1.1\Parsing_an_invalid_number.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Chapter_1\1.5\Parsing_an_invalid_number\Parsing_an_invalid_number\obj\Debug\netcoreapp1.1\Parsing_an_invalid_number.pdb
