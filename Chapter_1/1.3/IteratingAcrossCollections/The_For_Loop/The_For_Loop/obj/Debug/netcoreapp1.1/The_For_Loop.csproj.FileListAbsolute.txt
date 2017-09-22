@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\bin\Debug\netcoreapp1.1\The_For_Loop.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\bin\Debug\netcoreapp1.1\The_For_Loop.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\bin\Debug\netcoreapp1.1\The_For_Loop.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\bin\Debug\netcoreapp1.1\The_For_Loop.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\bin\Debug\netcoreapp1.1\The_For_Loop.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\obj\Debug\netcoreapp1.1\The_For_Loop.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\obj\Debug\netcoreapp1.1\The_For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\obj\Debug\netcoreapp1.1\The_For_Loop.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\obj\Debug\netcoreapp1.1\The_For_Loop.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\IteratingAcrossCollections\The_For_Loop\The_For_Loop\obj\Debug\netcoreapp1.1\The_For_Loop.pdb
