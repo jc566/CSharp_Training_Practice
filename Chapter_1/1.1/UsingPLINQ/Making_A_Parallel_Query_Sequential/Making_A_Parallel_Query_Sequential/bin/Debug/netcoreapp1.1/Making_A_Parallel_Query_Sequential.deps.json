@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "making_a_parallel_query_sequential/1.0.0": {
+        "runtime": {
+          "Making_A_Parallel_Query_Sequential.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "making_a_parallel_query_sequential/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

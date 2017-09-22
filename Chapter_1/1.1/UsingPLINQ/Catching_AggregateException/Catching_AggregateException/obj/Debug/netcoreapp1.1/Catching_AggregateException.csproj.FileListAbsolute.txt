@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\bin\Debug\netcoreapp1.1\Catching_AggregateException.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\bin\Debug\netcoreapp1.1\Catching_AggregateException.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\bin\Debug\netcoreapp1.1\Catching_AggregateException.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\bin\Debug\netcoreapp1.1\Catching_AggregateException.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\bin\Debug\netcoreapp1.1\Catching_AggregateException.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\obj\Debug\netcoreapp1.1\Catching_AggregateException.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\obj\Debug\netcoreapp1.1\Catching_AggregateException.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\obj\Debug\netcoreapp1.1\Catching_AggregateException.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Catching_AggregateException\Catching_AggregateException\obj\Debug\netcoreapp1.1\Catching_AggregateException.pdb

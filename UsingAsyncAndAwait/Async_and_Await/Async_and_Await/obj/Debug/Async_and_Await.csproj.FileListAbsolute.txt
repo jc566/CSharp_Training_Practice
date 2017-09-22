@@ -1,5 +1,0 @@
-C:\Users\Joseph.Choi\Desktop\CSharp_Training\AsyncAndAwait\Async_and_Await\Async_and_Await\bin\Debug\Async_and_Await.exe.config
-C:\Users\Joseph.Choi\Desktop\CSharp_Training\AsyncAndAwait\Async_and_Await\Async_and_Await\bin\Debug\Async_and_Await.exe
-C:\Users\Joseph.Choi\Desktop\CSharp_Training\AsyncAndAwait\Async_and_Await\Async_and_Await\bin\Debug\Async_and_Await.pdb
-C:\Users\Joseph.Choi\Desktop\CSharp_Training\AsyncAndAwait\Async_and_Await\Async_and_Await\obj\Debug\Async_and_Await.exe
-C:\Users\Joseph.Choi\Desktop\CSharp_Training\AsyncAndAwait\Async_and_Await\Async_and_Await\obj\Debug\Async_and_Await.pdb

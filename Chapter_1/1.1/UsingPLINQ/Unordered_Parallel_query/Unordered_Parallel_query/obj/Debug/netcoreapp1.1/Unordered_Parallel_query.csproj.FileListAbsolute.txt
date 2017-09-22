@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\bin\Debug\netcoreapp1.1\Unordered_Parallel_query.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\bin\Debug\netcoreapp1.1\Unordered_Parallel_query.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\bin\Debug\netcoreapp1.1\Unordered_Parallel_query.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\bin\Debug\netcoreapp1.1\Unordered_Parallel_query.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\bin\Debug\netcoreapp1.1\Unordered_Parallel_query.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\obj\Debug\netcoreapp1.1\Unordered_Parallel_query.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\obj\Debug\netcoreapp1.1\Unordered_Parallel_query.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\obj\Debug\netcoreapp1.1\Unordered_Parallel_query.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingPLINQ\Unordered_Parallel_query\Unordered_Parallel_query\obj\Debug\netcoreapp1.1\Unordered_Parallel_query.pdb
