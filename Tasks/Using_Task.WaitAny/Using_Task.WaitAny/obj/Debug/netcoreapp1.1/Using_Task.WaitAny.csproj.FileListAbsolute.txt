@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\bin\Debug\netcoreapp1.1\Using_Task.WaitAny.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\bin\Debug\netcoreapp1.1\Using_Task.WaitAny.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\bin\Debug\netcoreapp1.1\Using_Task.WaitAny.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\bin\Debug\netcoreapp1.1\Using_Task.WaitAny.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\bin\Debug\netcoreapp1.1\Using_Task.WaitAny.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\obj\Debug\netcoreapp1.1\Using_Task.WaitAny.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\obj\Debug\netcoreapp1.1\Using_Task.WaitAny.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\obj\Debug\netcoreapp1.1\Using_Task.WaitAny.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\obj\Debug\netcoreapp1.1\Using_Task.WaitAny.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_Task.WaitAny\Using_Task.WaitAny\obj\Debug\netcoreapp1.1\Using_Task.WaitAny.pdb

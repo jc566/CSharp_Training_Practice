@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+/*
+ * Next to calling WAIT on a single TASK, you can also use the method WAITALL to wait for multiple TASKS to finish
+ * before continuing execution.
+ * */
 namespace Using_Task.WaitAll
 {
     class Program

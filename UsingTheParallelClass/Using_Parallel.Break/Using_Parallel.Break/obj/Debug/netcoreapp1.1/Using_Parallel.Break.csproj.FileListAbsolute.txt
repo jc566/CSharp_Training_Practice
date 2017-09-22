@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\bin\Debug\netcoreapp1.1\Using_Parallel.Break.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\bin\Debug\netcoreapp1.1\Using_Parallel.Break.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\bin\Debug\netcoreapp1.1\Using_Parallel.Break.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\bin\Debug\netcoreapp1.1\Using_Parallel.Break.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\bin\Debug\netcoreapp1.1\Using_Parallel.Break.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\obj\Debug\netcoreapp1.1\Using_Parallel.Break.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\obj\Debug\netcoreapp1.1\Using_Parallel.Break.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\obj\Debug\netcoreapp1.1\Using_Parallel.Break.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\UsingTheParallelClass\Using_Parallel.Break\Using_Parallel.Break\obj\Debug\netcoreapp1.1\Using_Parallel.Break.pdb

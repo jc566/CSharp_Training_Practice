@@ -1,0 +1,10 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\bin\Debug\netcoreapp1.1\Using_A_TaskFactory.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\bin\Debug\netcoreapp1.1\Using_A_TaskFactory.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\bin\Debug\netcoreapp1.1\Using_A_TaskFactory.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\obj\Debug\netcoreapp1.1\Using_A_TaskFactory.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\obj\Debug\netcoreapp1.1\Using_A_TaskFactory.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\obj\Debug\netcoreapp1.1\Using_A_TaskFactory.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\bin\Debug\netcoreapp1.1\Using_A_TaskFactory.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\bin\Debug\netcoreapp1.1\Using_A_TaskFactory.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\obj\Debug\netcoreapp1.1\Using_A_TaskFactory.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\Tasks\Using_A_TaskFactory\Using_A_TaskFactory\obj\Debug\netcoreapp1.1\Using_A_TaskFactory.pdb
