@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\bin\Debug\netcoreapp1.1\The_Conditional_Operator.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\bin\Debug\netcoreapp1.1\The_Conditional_Operator.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\bin\Debug\netcoreapp1.1\The_Conditional_Operator.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\bin\Debug\netcoreapp1.1\The_Conditional_Operator.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\bin\Debug\netcoreapp1.1\The_Conditional_Operator.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\obj\Debug\netcoreapp1.1\The_Conditional_Operator.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\obj\Debug\netcoreapp1.1\The_Conditional_Operator.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\obj\Debug\netcoreapp1.1\The_Conditional_Operator.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Conditional_Operator\The_Conditional_Operator\obj\Debug\netcoreapp1.1\The_Conditional_Operator.pdb

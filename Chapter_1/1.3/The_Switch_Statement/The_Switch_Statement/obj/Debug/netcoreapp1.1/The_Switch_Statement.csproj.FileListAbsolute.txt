@@ -1,0 +1,9 @@
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\bin\Debug\netcoreapp1.1\The_Switch_Statement.deps.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\bin\Debug\netcoreapp1.1\The_Switch_Statement.runtimeconfig.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\bin\Debug\netcoreapp1.1\The_Switch_Statement.runtimeconfig.dev.json
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\bin\Debug\netcoreapp1.1\The_Switch_Statement.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\bin\Debug\netcoreapp1.1\The_Switch_Statement.pdb
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\obj\Debug\netcoreapp1.1\The_Switch_Statement.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\obj\Debug\netcoreapp1.1\The_Switch_Statement.AssemblyInfo.cs
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\obj\Debug\netcoreapp1.1\The_Switch_Statement.dll
+C:\Users\Joseph.Choi\Desktop\CSharp_Training\The_Switch_Statement\The_Switch_Statement\obj\Debug\netcoreapp1.1\The_Switch_Statement.pdb
