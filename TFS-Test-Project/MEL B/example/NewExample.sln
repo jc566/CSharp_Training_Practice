@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewExample", "NewExample\NewExample.csproj", "{CA48138C-1C87-4589-83AD-EAE58259E6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{39A08F37-552E-4040-B605-92BE72E03F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{7BEBB615-E32F-4A09-972E-7A0734C1C6B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA48138C-1C87-4589-83AD-EAE58259E6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA48138C-1C87-4589-83AD-EAE58259E6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA48138C-1C87-4589-83AD-EAE58259E6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA48138C-1C87-4589-83AD-EAE58259E6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A08F37-552E-4040-B605-92BE72E03F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A08F37-552E-4040-B605-92BE72E03F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A08F37-552E-4040-B605-92BE72E03F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A08F37-552E-4040-B605-92BE72E03F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BEBB615-E32F-4A09-972E-7A0734C1C6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEBB615-E32F-4A09-972E-7A0734C1C6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEBB615-E32F-4A09-972E-7A0734C1C6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEBB615-E32F-4A09-972E-7A0734C1C6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vminob035:8080/tfs/gtp2017
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NewExample\\NewExample.csproj
+		SccProjectName1 = NewExample
+		SccLocalPath1 = NewExample
+		SccProjectUniqueName2 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectName2 = UnitTestProject1
+		SccLocalPath2 = UnitTestProject1
+		SccProjectUniqueName3 = ClassLibrary1\\ClassLibrary1.csproj
+		SccProjectName3 = ClassLibrary1
+		SccLocalPath3 = ClassLibrary1
+	EndGlobalSection
+EndGlobal
